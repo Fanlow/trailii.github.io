@@ -1,0 +1,1413 @@
+{
+  "settings": {
+    "name": "Trailii ",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#2980b9",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 41,
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1484431-128x128-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "buttonAlign": "left",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1x-1-2000x1315.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Trailii\n<div>Mobile</div><div>Marketing</div>",
+          "text": "effortless reach is now here!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g"
+        },
+        {
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            "DIV": {
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "showText": false,
+            "showSubtitles": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bc068-white-w-keychain-1253-x-1253-1253x1253.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2980b9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": "1"
+          },
+          "title": "MOBILE STATS",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
+          "subtitle1": "By 2019, mobile advertising is expected to represent 72% of all u.s. digital spend.",
+          "subtitle2": "&nbsp;OF companies have integrated mobile marketing into their overall marketing strategy.",
+          "subtitle3": "Average smartphone conversion rates are up 64% compared to avg desktop conversions rates.&nbsp;",
+          "subtitle4": "<p>as of q1 2017, samsung was the leading phone maker (with a 22.8% share) followed by apple.&nbsp;</p>",
+          "number1": "72%",
+          "number2": "68%",
+          "number3": "64%",
+          "number4": "22.8%",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters2",
+          "_anchor": "counters2-i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": false,
+            "blocks": "4",
+            "cardsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2980b9",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/airplane-mode-cell-phone-gettyimages-467952696-2000x1500.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "mainTitle": "<span style=\"font-weight: normal;\">Trailii mobile marketing</span>",
+          "mainSubtitle": "ALLOWS YOU TO MARKET YOUR BUSINESS TO ANY NEARBY ANDROID DEVICE WITHIN A 100 YARD RADIUS THROUGH BEACON LOCATION VIA BLUETOOTH LOW ENERGY (BLE) TECHNOLOGY. <br>HERE IS HOW IT WORKS:&nbsp;",
+          "title1": "Step Number One",
+          "title2": "Step Number Two",
+          "title3": "Step Number Three",
+          "title4": "Step Number Four",
+          "title5": "5. Awesome Reports",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "date1": "7 to 10 Day Delivery",
+          "date2": "40 Character Limit",
+          "date3": "Same or Next Day",
+          "date4": "Promote Your Business",
+          "date5": "5 May 2016",
+          "date6": "6 June 2016",
+          "date7": "7 July 2016",
+          "date8": "8 August 2016",
+          "date9": "9 September 2016",
+          "date10": "10 October 2016",
+          "date11": "11 November 2016",
+          "date12": "12 December 2016",
+          "text1": "Place an order to receive your Trailii BLE beacon device.",
+          "text2": "Decide the promotional message you want to broadcast.",
+          "text3": "We setup your promotional message in our system.",
+          "text4": "The beacon sends your message to every nearby Android.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features9",
+          "_anchor": "features9-6",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#2980b9"
+            },
+            "H4": {
+              "color": "#3498db"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".date P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2c3e50"
+          },
+          "text": "<p>Android represents 60% of the North American smartphone market. To receive messages, the phone just needs Bluetooth turned on.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-4",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff",
+              "font-size": "18px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "48px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-subtitle B": {
+              "font-size": "17px"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bc068-white-w-keychain-1253-x-1253-1253x1253.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3498db",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">FEATURES</span>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "<b>beACON</b>",
+          "caption1": "Beacons will allow you to promote your business anywhere you are.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "<b>BUSINESS wEBSITE</b>",
+          "caption2": "Get a business website to connect with your potental customers.&nbsp;",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "<b>DIGITAL BUSINESS CARD</b>",
+          "caption3": "Having a digital business card is a great way to share information.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "<b>mESSAGE UPDATES</b>",
+          "caption4": "Update your beacon message with need promote your new offer.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
+              "font-size": "20px",
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showHeaderText": false,
+            "showImages": true,
+            "showTitles": false,
+            "tabs": "4",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/latestnews-banner-2000x1045.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "WITH TRAILII EASILY PROMOTE YOUR",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque mollitia ipsa ullam, voluptas beatae qui eligendi eveniet necessitatibus perferendis exercitationem fuga iure voluptates voluptatibus laborum sit est. Odit quas facilis tenetur, exercitationem nesciunt. Doloremque voluptatibus officia quod, nostrum tempore quos hic quae molestias! Vero iste itaque cupiditate a nobis, soluta.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1484431-2480x2480.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title11": "BOOST YOUR RANKING",
+          "title12": "BOOST YOUR RANKING",
+          "title13": "BOOST YOUR RANKING",
+          "title21": "BOOTSTRAP BUILDER",
+          "title22": "BOOTSTRAP BUILDER",
+          "title23": "BOOTSTRAP BUILDER",
+          "title31": "BOOST YOUR RANKING",
+          "title32": "BOOST YOUR RANKING",
+          "title33": "BOOST YOUR RANKING",
+          "title51": "BOOTSTRAP BUILDER",
+          "title52": "BOOTSTRAP BUILDER",
+          "title53": "BOOTSTRAP BUILDER",
+          "title61": "TRENDY WEBSITE BLOCKS",
+          "title62": "TRENDY WEBSITE BLOCKS",
+          "title63": "TRENDY WEBSITE BLOCKS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-j\" aria-expanded=\"false\">products</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-j\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-j\" aria-expanded=\"false\">solutions</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-j\" aria-expanded=\"true\">events</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-j\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-j\">Beautiful</a></li>",
+          "media11": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media13": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media31": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media32": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media33": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media41": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media42": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media43": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media51": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media52": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media53": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media61": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media62": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media63": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text11": "Health &amp; Beauty \n<br>\n<br>Fashion &amp; Accessories\n<br>\n<br>Books and EP\n<br>\n<br>Specialty Items",
+          "text12": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
+          "text13": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
+          "text21": "-Legal and Accounting <br>\n<br>Marketing and Advertising\n<br><br>Real Estate and Consulting <br>\n<br>Insurance and Finance",
+          "text22": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
+          "text23": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
+          "text31": "Social Media (YouTube/Facebook)\n<br>\n<br>Mastermind System\n<br>\n<br>Online Training/Coaching\n<br>\n<br>Software Solution",
+          "text32": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
+          "text33": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
+          "text41": "Open House \n<br><br>Networking Event\n<br><br>Religious Event\n<br><br>Special Promotion and more...&nbsp;<br>",
+          "text42": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "text43": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "text51": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text52": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text53": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text61": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "text62": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "text63": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs2",
+          "_anchor": "tabs2-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "countdown": "2019/1/01",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/radbeacon-dot-store-alt-f4272a00-f371-4e36-9189-4e8bc55e88be-605x604.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": "1"
+          },
+          "title": "MAKE 2018 A BIG YEAR",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "countdown1",
+          "_anchor": "countdown1-o",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1683x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3498db",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Now Is The Time To Grow Your Business</span>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "<b>Maximize Your Marketing Efforts</b>",
+          "caption1": "Automatically promote your business on every nearby Android phone within a 100 yard radius.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "<b>Eliminate The Marketing Hassle</b>",
+          "caption2": "Avoid the need to constantly post and hand out business cards. Drive traffic directly to your website, blog, or social media page.",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "<b>Feel Secure With Our Guarantee</b>",
+          "caption3": "Every beacon is water-resistant and comes with a lifetime guarantee - if it stops working, we'll replace it free of charge.",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-y"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#d35400"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "UL": {
+              "font-size": "16px",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "popular",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pablo-6-1024x1024.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2980b9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "title": "TRAILII PRICING PLANS",
+          "subtitle": "We manage the entire backend process giving you the time to focus on other key componets of your business. *Limited time offer. Click for sample.",
+          "title1": "STARTER PLAN",
+          "title2": "BUSINESS PLAN",
+          "title3": "PREMIUM PLAN",
+          "title4": "ULTIMATE PLAN",
+          "label1": "POPULAR",
+          "label2": "POPULAR",
+          "label3": "POPULAR",
+          "label4": "POPULAR",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "50",
+          "price2": "80",
+          "price3": "110",
+          "price4": "150",
+          "period1": "/mo",
+          "period2": "/mo",
+          "period3": "/mo",
+          "period4": "/mo",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Beacon</b></li><li class=\"list-group-item\"><b>2 Message Updates</b></li><li class=\"list-group-item\"><b>No Website</b></li><li class=\"list-group-item\"><b>Digital Business Card</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Beacon</b></li><li class=\"list-group-item\"><b>6 Message Updates</b></li><li class=\"list-group-item\"><b>1 Page Website</b></li><li class=\"list-group-item\"><b>Digital Business Card</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Beacon</b></li><li class=\"list-group-item\"><b>Unlimited Updates</b></li><li class=\"list-group-item\"><b>5 Page Website</b></li><li class=\"list-group-item\"><b>Digital Business Card</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>2 Beacon</b></li><li class=\"list-group-item\"><b>Unlimited Updates</b></li><li class=\"list-group-item\"><b>E-Commerce | 10 Items</b></li><li class=\"list-group-item\"><b>Digital Business Card</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "tabs": "6",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/office-laughing-istock-000030363756-large-2000x1332.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "title": "TRAILII FAQs",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOnetoggle1-n\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Trailii?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwotoggle1-n\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">What is a beacon?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThreetoggle1-n\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Can I move the beacon?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFourtoggle1-n\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Will people need an app or have to opt in to receive notifications?&nbsp;</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFivetoggle1-n\" aria-expanded=\"false\" aria-controls=\"collapseFive\">How long will the beacon last?</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSixtoggle1-n\" aria-expanded=\"true\" aria-controls=\"collapseSix\">What happens if I lose the beacon?</a>",
+          "text1": "<p>Trailii is a division of Fanlow LLC specializing in digital marketing solutions for small business owners. FanTouch offers beacon technology management accompanied with dynamic sale funnels designed to drive traffic to your website, social media page and more.&nbsp;</p>",
+          "text2": "<p>Beacons are small devices that use Bluetooth 4.0 technology to send messages (push notification) to any smartphone, without any dropouts. Your beacon range can go up to 100 yards and they operate by proximity and may be fixed or mobile.</p>",
+          "text3": "<p>Yes! You have the option to carry the beacon (gem) with you at all times (recommended) or simply leave it in high traffic areas to maximize your marketing efforts.&nbsp;</p>",
+          "text4": "<p>No. Beacon notifications are only viewable by Android phones with Bluetooth and location turned on.</p>",
+          "text5": "<p>Each beacon has a battery life of 24 months or longer.&nbsp;</p>",
+          "text6": "<p>If you lose your beacon, we will be more than happy to replace it for you. Simply contact us, cover the shipping and handling fee along with the setup fee (total $30) and you will be back to business as usual.&nbsp;</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "toggle1",
+          "_anchor": "toggle1-n",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showText1": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1464x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Ready to get started?",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:trailiibeacons@gmail.com\" data-toolbar=\"-mbrBtnMove\">coNTACT US &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page1.html#form1-11\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; UPDATES &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ADD BEACONS</a> ",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call5",
+          "_anchor": "call5-p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 TELLII",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-t"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Updates",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2980b9!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-a\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#call5-p\">CONTACT US</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1484431-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "65",
+              "color": "",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRAILII</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 TELLII",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-10"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-text": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "BEACON MESSAGE",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Leave us your informaton and promotional message and we will have your beacon updated by the next business day.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
+          "form": {
+            "action": "trailiibeacons@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "40 Character Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-11"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Purchase",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2980b9!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-a\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#call5-p\">CONTACT US</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1484431-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "65",
+              "color": "",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRAILII</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 TELLII",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-13"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "{JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-14",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"https://form.jotform.com/jsform/80638598284169\"></script>"
+          ]
+        }
+      ]
+    }
+  }
+}
